@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+
+<Document>
+
+<Placemark>
+<name>Gilwell Mosque!</name>
+<description><![CDATA[ <p style="color:#DB9390;background-color:#57373E; padding:0.5em">This is the beautiful Mosque at Gilwell, where Muslim Scouts can worship. <center><img src='https://static.wixstatic.com/media/65c57f_e45a3dff36ab41cfb57bc47034cf0b8e~mv2_d_4160_2340_s_2.jpg/v1/fill/w_605,h_426,al_c,q_80,usm_1.20_1.00_0.01/65c57f_e45a3dff36ab41cfb57bc47034cf0b8e~mv2_d_4160_2340_s_2.webp'/><center> ]]> </description>
+<Style>
+<IconStyle>
+<Icon>
+<href>https://images.vexels.com/media/users/3/137734/isolated/lists/d02e892fea06ea885d25bad9d0d207c4-mosque-islam-flat.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Point>
+<coordinates>0.00159,51.64985</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>Gilwell Oak</name>
+<description> <![CDATA[ <p style="color:#603701;background-color:#99cc00; padding:0.5em"> <a href='https://en.wikipedia.org/wiki/Gilwell_Oak'> The Gilwell Oak </a> is a Common or English Oak (Quercus robur) of approximately 450-550 years of age.  It is reputed to have been used as a hiding place by Dick Turpin and since the 20th century has become closely associated with the Scout movement. <center><img src='https://www.woodlandtrust.org.uk/media/100821279/the-gilwell-oak-credit-martyn-milner-wtml.jpg' width='500'/> </center> ]]> </description>
+<Style>
+	<IconStyle>
+		<Icon>
+			<href>https://vignette.wikia.nocookie.net/frontierville/images/4/41/Oak_Tree_Large-icon.png</href>
+		</Icon>
+	</IconStyle>
+</Style>
+<Point>
+	<coordinates>0.001049,51.650356</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>Scout Association HQ</name>
+<description>
+<![CDATA[ <p style="color:#b1b2b5;background-color:#4d1979; padding:0.5em">This is the UK Headquarters of the <a href='http://www.scouts.org.uk'>Scouting Assocation</a>! <center><img src='https://cached.imagescaler.hbpl.co.uk/resize/scaleWidth/614/cached.offlinehbpl.hbpl.co.uk/news/ORP/scoutslogo-201711030307187551-20180405095613206.png'/></center> ]]>
+</description>
+<Style>
+	<IconStyle>
+		<Icon>
+			<href>http://3.bp.blogspot.com/-rJ9VaHeazi8/Tp4q-JDnYoI/AAAAAAAAAAs/sghzydJuAMM/w1200-h630-p-k-no-nu/300px-Logo_scout_WOSM.png</href>
+		</Icon>
+	</IconStyle>
+</Style>
+<Point>
+	<coordinates>0.0026,51.6500178,0 0.001853,51.649846,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>Open Chapel</name>
+<description> <![CDATA[ <p style="color:#f4e6e6;background-color:#3e86d8; padding:0.5em">This is the lovely 'Open Chapel' at Gilwell Park where Scouts and visitors can worship, no matter their religious leanings. <center><img src='http://4.bp.blogspot.com/_lyeuw9S8n3A/RuOEcSihupI/AAAAAAAAAlQ/B55o0aOo3AM/s320/Gilwell+Reunion+2007+029.jpg' width='500'/></center> ]]> </description>
+<Style>
+	<IconStyle>
+		<Icon>
+			<href>https://cdn.icon-icons.com/icons2/1448/PNG/128/42517sunrise_98976.png</href>
+		</Icon>
+	</IconStyle>
+</Style>
+<Point>
+	<coordinates>0.001853,51.649846,0</coordinates>
+</Point>
+</Placemark>
+
+</Document>
+</kml>
+
