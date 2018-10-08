@@ -1,15 +1,15 @@
-<!--This is the XML header. This is line 1 in every KML file. No spaces or other characters can appear before this line. --> <?xml version="1.0" encoding="UTF-8"?>  
+<?xml version="1.0" encoding="UTF-8"?> <!--This is the XML header. This is line 1 in every KML file. No spaces or other characters can appear before this line. --> 
 <kml xmlns="http://www.opengis.net/kml/2.2">  <!--A KML namespace declaration. This is line 2 in every KML 2.2 file. -->
 
-<Document> <!-- We wrap all of our Placemarks in this Document tag, which is a lot like the <body> tag in HTML. Don’t forget to close ALL open tags at the end! -->
+<Document> <!-- We wrap all of our Placemarks in this Document tag, which is a lot like the <body> tag in HTML. Donâ€™t forget to close ALL open tags at the end! -->
 
 <Placemark>  <!--This tag begins the Placemark object that contains the following elements: Name, Description, Icon and Point -->
 <name>Demonstration Placemark</name> <!--This is the title of our placemark that appears in bold. -->
 <description>This is the description for a <b> demonstration Placemark! </b>  <mark>You</mark> <sub> can </sub> <sup> style </sup><i> text </i>, <a href="https://www.w3schools.com/html/html_links.asp">add hyperlinks</a> and embed images using simple markup, just like HTML. This location marks the Baden Powell Campsite in Western Australia, home of the Western Australian Scouting Association! <br></br> <center><img src= "http://www.4wdingaustralia.com/wp-content/uploads/2012/12/Just-stunning.jpg"  width ="500"/></center></description> <!--The Description can have embedded images and hyperlinks just as in HTML -->
 
-<Style> <!--This next ‘Style’ section allows us to create custom icons for our placemark. We will simply link to the image we want to use. This image will need to be small enough for use as an icon. Some images will not work as icons, so make sure you test them out! -->
+<Style> <!--This next â€˜Styleâ€™ section allows us to create custom icons for our placemark. We will simply link to the image we want to use. This image will need to be small enough for use as an icon. Some images will not work as icons, so make sure you test them out! -->
 <IconStyle>
-<Icon> <!-- In the href tag below, enter the URL of the image you want to use as your icon. If you create your own icons, you’ll need to store them online on your google drive or another cloud service. -->
+<Icon> <!-- In the href tag below, enter the URL of the image you want to use as your icon. If you create your own icons, youâ€™ll need to store them online on your google drive or another cloud service. -->
 <href>https://raw.githubusercontent.com/iiiypuk/rpi-icon/master/256.png</href>
 </Icon>
 </IconStyle>
@@ -22,4 +22,4 @@
 </Placemark> <!-- Here we close the placemark tag. Everything inside the tag represents a single Placemark on our Map. If we want to add more placemarks, they must all be inside the <Document> tag! -->
 
 </Document> <!-- Here we close our <Document> tag. -->
-</kml> <!-- We must also remember to close our <kml> tag as a final ‘bookend’ to our script. -->
+</kml> <!-- We must also remember to close our <kml> tag as a final â€˜bookendâ€™ to our script. -->
